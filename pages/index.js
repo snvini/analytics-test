@@ -33,7 +33,7 @@ function Contador(){
 function Home() {
     return (
         <div>
-            <div>Home</div>
+            <div>Home 2</div>
             <Contador />
         </div>
     )
